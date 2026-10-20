@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 运行时生成的索引缓存（删掉会自动重建，不必进版本库）
+.cache/
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# 日志与临时文件
+*.log
+*.tmp

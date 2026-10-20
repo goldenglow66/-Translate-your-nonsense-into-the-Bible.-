@@ -60,7 +60,7 @@ LM Studio 也行，填它们各自的地址即可。
 ## 目录结构
 
 ```
-圣经/
+Bible/
 ├─ server.py          零依赖 HTTP 服务（标准库）+ 全部 API 路由
 ├─ engine.py          检索引擎：小句切分、bigram 倒排、BM25、概念扩展、聚合打分
 ├─ concepts.py        62 组概念同义表（口语 → 和合本用词）+ 停用词
